@@ -1,5 +1,5 @@
 Description: This indicates the name of the website (e.g., "Example"). Default value is "Example".
 Content:
 <value>
-Self-Hosted
+The PDC Group
 </value>
