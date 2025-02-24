@@ -1,0 +1,16 @@
+Description: This contains content for the the file "/www/public/pages/reading-material.html".
+Content:
+<value>
+GitHub is a web-based hosting service for software development and version control that uses Git, a distributed version control system, to help you manage code projects. A project on GitHub is stored in a repository, which is a central location for your files and revision history. When you create a repository, it often includes a README file that introduces the project and may also include a CONTRIBUTING.md file with guidelines for contributing.
+<br><br>
+Using Git effectively involves several key actions. When you save changes to your project, you create a commit that records a snapshot of your work. To work on new features or fixes without disturbing the main codebase, you create a branch. Once your changes are ready, you can open a pull request, which is a formal request to merge your branch into the main branch. GitHub also provides tools for tracking bugs and feature requests through issues.
+<br><br>
+You can copy a repository from GitHub to your local machine by cloning it, or you can fork a repository to create your own personal copy of someone else's project. When the time comes to combine changes from different branches, you perform a merge. To update your local repository with the latest changes, you use pull, and when you are ready to share your changes, you push them to GitHub.
+<br><br>
+For users who prefer a graphical interface, GitHub Desktop offers an easy way to interact with repositories, while the Git CLI provides command line functionality. If you make a mistake, you can revert a commit to undo changes. GitHub Actions is a feature that supports continuous integration by automating workflows, ensuring that your code is tested and deployed efficiently. The act of merging changes is often referred to as merging, and during this process, team members may engage in a code review to discuss the changes.
+<br><br>
+In addition to managing code, GitHub offers Projects, a tool to manage and track project tasks. For secure interactions with the platform, a Personal Access Token is used for authentication instead of a password. When conflicts arise during a merge, a merge tool can help resolve them.
+<br><br>
+GitHub also supports hosting static websites through GitHub Pages, allowing you to publish content directly from a repository. Finally, maintaining a changelog--a written summary of project changes--is an effective way to document progress and updates.
+<div class='course_links_outter'><a class='course_links' href="./evaluation.html">Start Evaluation</a></div>
+</value>

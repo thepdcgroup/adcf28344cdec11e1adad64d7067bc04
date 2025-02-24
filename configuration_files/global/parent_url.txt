@@ -1,0 +1,5 @@
+Description: This indicates the domain and path of a parent website. The default value is "http://localhost/index.html". A value of "" can also be used, if there is no parent website.
+Content:
+<value>
+http://localhost/index.html
+</value>

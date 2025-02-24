@@ -1,0 +1,20 @@
+.title_outter {
+	margin-left: 0px;
+	margin-right: 0px;
+	max-width: 100%;
+	min-width: 100%;
+	text-align: center;
+}
+.title_inner {
+	min-width: 100%;
+	font-size: 1.00em;
+	display: inline-block;
+	padding-bottom: 45vh;
+}
+.title_spacer {
+	min-height: 45vh;
+	max-height: 45vh;
+}
+.title_text {
+	font-size: 36px;
+}

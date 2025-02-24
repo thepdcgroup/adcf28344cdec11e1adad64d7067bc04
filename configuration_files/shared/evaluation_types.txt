@@ -1,0 +1,5 @@
+Description: States the type of evaluation used. The default value is "Exposure Evaluation".
+Content:
+<value>
+Exposure Evaluation
+</value>

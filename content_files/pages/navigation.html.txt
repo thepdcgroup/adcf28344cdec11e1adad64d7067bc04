@@ -1,0 +1,35 @@
+Description: This contains content for the the file "/www/public/navigation.html".
+Content:
+<value>
+<div id='navlinks_pages_outter'>
+<div id='navlinks_pages_inner'>
+<h2>Pages</h2>
+<a class='navlinks' href="./index.html">Home</a>
+<a class='navlinks' href="./pages/overview.html">Overview</a>
+<a class='navlinks' href="./pages/reading-material.html">Reading Material</a>
+<a class='navlinks' href="./pages/evaluation.html">Evaluation</a>
+<a class='navlinks' href="./pages/certificate.html">Credential Verification</a>
+</div>
+</div>
+<div id='navlinks_meta_outter'>
+<div id='navlinks_meta_inner'>
+<h2>Meta Pages</h2>
+<a class='navlinks' href="./rel-robots.txt">rel-robots.txt</a>
+<a class='navlinks' href="./rel-humans.txt">rel-humans.txt</a>
+<a class='navlinks' href="./rel-sitemap.xml">rel-sitemap.xml</a>
+<a class='navlinks' href="./Hello World.txt">Hello World.txt</a>
+</div>
+</div>
+<script>
+window.onload = function(){
+	if (document.referrer.startsWith(location.origin)){
+		document.getElementById("navigation").style.display = 'inline-block';
+		document.getElementById("navigation_button").href = document.referrer;
+		document.getElementById("navigation_button").innerHTML = '&#9166; ';
+	} else {
+		var elem = document.getElementById("navigation");
+		elem.remove();
+	}
+}
+</script>
+</value>

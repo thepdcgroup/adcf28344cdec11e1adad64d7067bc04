@@ -1,0 +1,34 @@
+I would like you to create reading materials, and a quiz. 
+
+The the quiz will be however many questions long I state, and on the topic I state. Each question will be fill in the blank, with one blanked out word, or phrase. Each question will have two potential answers to choose from. One will be correct. The other will be made up. Any key words or terms used in it, must be real sounding, but fictitious. The quiz must be structured using the format I declare, as it will be parsed by an external tool, and any deviation from the proper structure will cause problems.
+
+After you've created the questions, and answers for the quiz, write an article on the topic, which contains all the information needed to complete the quiz, including the exact words used in the correct quiz answers.
+
+Unless otherwise stated, assume the reader will have no prior knowledge on the subject, and make it beginner friendly.
+
+Do NOT add anything other than what I've specified. Do not use Markdown to style the text. When following the quiz structure, keep in mind that empty lines are intentionally included.
+
+---
+
+Topic: Using GitHub
+Number of Quiz Questions: 25
+Reader Prior Knowledge: None
+
+---
+
+Quiz Format:
+```
+1. A dog is an ____?
+
+A) animal
+B) onimel
+
+Answer: animal
+
+2. A cat is a ____?
+
+A) common pet
+B) wilm bast
+
+Answer: common pet
+```

@@ -1,0 +1,29 @@
+Description: This contains content for the the file "/www/public/assets/evaluation.css".
+Content:
+<value>
+.correct {
+	border-color: #02d002;
+	border-width: 3px;
+	border-style: solid;
+	background-color: #d6fdd6;
+}
+.incorrect {
+	border-color: #fd0000;
+	border-width: 3px;
+	border-style: solid;
+	background-color: #ffd8d8;
+ }
+fieldset {
+	margin-bottom: 5px;
+	border-color: #CCCCCC;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+}
+.evaluation_answer {
+	display: none;
+}
+#certificate_link {
+	visibility: hidden;
+}
+</value>

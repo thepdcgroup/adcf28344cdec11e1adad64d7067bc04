@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey Introduction to GitHub
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Introduction to GitHub i1 v1
+SHORT IDENTIFIER: RIGi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Introduction to GitHub is a web-course about GitHub.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started February 23, 2025.
+- Version 1 completed February 23, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- 
+
+Other:
+- 

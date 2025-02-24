@@ -1,0 +1,5 @@
+Description: Indicates the protocol declared at the start of the urls. Valid values are "http", and  "https". The default is "http", but "https" is recommended.
+Content:
+<value>
+http
+</value>

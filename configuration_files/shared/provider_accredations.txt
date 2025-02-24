@@ -1,0 +1,4 @@
+Description: Lists any third-party accredations held by the educational provider. The default value is "".
+Content:
+<value>
+</value>

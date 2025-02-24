@@ -1,0 +1,8 @@
+/* TEAM */
+Developer: Name
+Location: Country
+
+/* THANKS */
+
+/* SITE */
+Last update: 2025-02-24

@@ -1,0 +1,5 @@
+Description: This indicates the domain name of the website (e.g., "example.com"). Default value is "localhost".
+Content:
+<value>
+localhost
+</value>

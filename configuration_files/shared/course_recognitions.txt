@@ -1,0 +1,4 @@
+Description: Lists any third-party recognitions for the course. The default value is "".
+Content:
+<value>
+</value>

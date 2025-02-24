@@ -1,0 +1,5 @@
+Description: Describes the course.
+Content:
+<value>
+A short professional development course about using GitHub.
+</value>

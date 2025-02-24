@@ -1,0 +1,5 @@
+Description: States when the course was finished being created.
+Content:
+<value>
+Y2025M2D23
+</value>

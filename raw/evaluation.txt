@@ -1,0 +1,174 @@
+1. GitHub is a ____ hosting service for software development and version control?
+
+A) web-based
+B) fluxomous
+
+Answer: web-based
+
+2. A central storage for code projects on GitHub is called a ____?
+
+A) repository
+B) repolith
+
+Answer: repository
+
+3. GitHub uses the distributed version control system called ____?
+
+A) Git
+B) Gux
+
+Answer: Git
+
+4. The action of saving changes to a repository in Git is known as a ____?
+
+A) commit
+B) comlix
+
+Answer: commit
+
+5. A ____ in GitHub allows you to experiment with changes without affecting the main codebase?
+
+A) branch
+B) branquo
+
+Answer: branch
+
+6. A ____ is a request to merge your branch changes into the main branch?
+
+A) pull request
+B) prilmant
+
+Answer: pull request
+
+7. GitHub provides a feature to track bugs and feature requests, known as ____?
+
+A) issues
+B) ishmos
+
+Answer: issues
+
+8. The process of copying a repository from GitHub to your local machine is called ____?
+
+A) clone
+B) clomber
+
+Answer: clone
+
+9. A ____ is used to make a personal copy of someone else's repository on GitHub?
+
+A) fork
+B) forquin
+
+Answer: fork
+
+10. Merging changes from different branches is performed using a ____?
+
+A) merge
+B) merglon
+
+Answer: merge
+
+11. To update your local repository with changes from the remote repository, you use ____?
+
+A) pull
+B) plullix
+
+Answer: pull
+
+12. After making local changes, you can send your updates to GitHub using ____?
+
+A) push
+B) pusheron
+
+Answer: push
+
+13. The graphical interface for code collaboration provided by GitHub is known as ____?
+
+A) GitHub Desktop
+B) Github Dynex
+
+Answer: GitHub Desktop
+
+14. The command line tool to interact with Git repositories is called the ____?
+
+A) Git CLI
+B) Git Commandor
+
+Answer: Git CLI
+
+15. A ____ is used to undo changes by creating a new commit that reverts previous commits?
+
+A) revert
+B) revaxon
+
+Answer: revert
+
+16. GitHub supports continuous integration with a feature called ____?
+
+A) GitHub Actions
+B) GitHub Axions
+
+Answer: GitHub Actions
+
+17. The process of incorporating changes from one branch into another is often referred to as ____?
+
+A) merging
+B) mergation
+
+Answer: merging
+
+18. When you open a pull request, the process of reviewing and discussing the changes is known as ____?
+
+A) code review
+B) codex review
+
+Answer: code review
+
+19. GitHub provides a way to manage project tasks with a feature called ____?
+
+A) Projects
+B) Projalin
+
+Answer: Projects
+
+20. A secure token used for authentication on GitHub is known as a ____?
+
+A) Personal Access Token
+B) Persocall Access Tiden
+
+Answer: Personal Access Token
+
+21. To resolve conflicts in a repository, you might use a ____?
+
+A) merge tool
+B) mergator
+
+Answer: merge tool
+
+22. A file that outlines guidelines for contributing to a repository is called ____?
+
+A) CONTRIBUTING.md
+B) CONTRIBUS
+
+Answer: CONTRIBUTING.md
+
+23. The file that often contains an introduction and instructions for a GitHub repository is called the ____?
+
+A) README
+B) REmevo
+
+Answer: README
+
+24. GitHub offers a feature to host static websites directly from a repository, known as ____?
+
+A) GitHub Pages
+B) GitHub Pagenix
+
+Answer: GitHub Pages
+
+25. A written summary of project changes, typically accompanying a pull request, is called a ____?
+
+A) changelog
+B) changorix
+
+Answer: changelog

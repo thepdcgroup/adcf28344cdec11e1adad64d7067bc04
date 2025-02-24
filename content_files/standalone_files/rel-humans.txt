@@ -1,0 +1,12 @@
+Description: This contains content for the the file "/www/public/rel-humans.txt". rel-humans.txt is a humans.txt alternative, that functions the same, except its scope is limited to the current directory, and subdirectories. Its statements overrule anything stated in a humans.txt file. It is not currently supported by third-parties. If it contains the line "Last update: Y/m/d", then "Y/m/d" will automatically be replaced with the actual date.
+Content:
+<value>
+/* TEAM */
+Developer: Name
+Location: Country
+
+/* THANKS */
+
+/* SITE */
+Last update: Y/m/d
+</value>

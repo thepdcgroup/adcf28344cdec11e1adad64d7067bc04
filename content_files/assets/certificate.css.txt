@@ -1,0 +1,96 @@
+Description: This contains content for the the file "/www/public/assets/certificate.css".
+Content:
+<value>
+@media print {
+	html, body {
+		background-color: #FFFFFF;
+		height: 100%;
+      		margin: 0;
+	}
+	.no_print {
+		display: none;
+	}
+	#certificate_outter {
+		min-height: 100%;
+		min-width: 100%;
+		box-sizing: border-box;
+		display: flex;
+     		justify-content: center;
+      		align-items: center;
+	}
+	#certificate_extra {
+		box-sizing: border-box;
+		border-color: #000000;
+		border-width: 25px;
+		border-style: solid;
+		min-height: 100%;
+		min-width: 100%;
+	}
+	#certificate_inner {
+		box-sizing: border-box;
+		border-color: #FFFFFF;
+		border-width: 25px;
+		border-style: solid;
+		padding: 25px;
+		font-size: 18px;
+		background-color: #e3dfbc;
+		min-height: 100%;
+		min-width: 100%;
+	}
+	#certificate_link {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+}
+
+
+#certificate_outter {
+	box-sizing: border-box;
+	display: flex;
+     	justify-content: center;
+      	align-items: center;
+}
+#certificate_extra {
+	box-sizing: border-box;
+	border-color: #000000;
+	border-width: 25px;
+	border-style: solid;
+	min-height: 100%;
+	min-width: 100%;
+}
+#certificate_inner {
+	box-sizing: border-box;
+	border-color: #FFFFFF;
+	border-width: 25px;
+	border-style: solid;
+	padding: 25px;
+	font-size: 18px;
+	background-color: #e3dfbc;
+	min-height: 100%;
+	min-width: 100%;
+}
+#certificate_link {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.item {
+	display: block;
+	margin-bottom: 1px;
+}
+.item_label {
+	display: inline-block;
+	margin-right: 5px;
+	font-weight: bold;
+}
+.item_value {
+	display: inline-block;
+	word-break: break-all;
+}
+#certificate_h2_outter {
+	margin-top: 0px;
+	background-color: #e3dfbc;
+}
+#certificate_h2_inner {
+	border-bottom-color: #4d4b4b;
+}
+</value>

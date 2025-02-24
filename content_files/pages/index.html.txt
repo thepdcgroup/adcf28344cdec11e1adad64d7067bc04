@@ -1,0 +1,11 @@
+Description: This contains content for the the file "/www/public/index.html".
+Content:
+<value>
+<div class='title_outter'>
+<div class='title_inner'>
+<div class='title_spacer'></div>
+<div class='title_text'>Introduction to GitHub</div>
+</div>
+</div>
+<div class='course_links_outter'><a class='course_links' href="./pages/overview.html">Start Course</a></div>
+</value>

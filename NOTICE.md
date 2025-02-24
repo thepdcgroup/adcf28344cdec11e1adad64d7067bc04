@@ -1,0 +1,1 @@
+This version of the project is a preliminary draft. The course material was generated largely using AI, and has not been thoroughly reviewed, edited, etc by a person yet. For this reason, you are advised to scrutinize, and verify all information, before treating it as accurate, and true!

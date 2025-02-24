@@ -1,0 +1,166 @@
+1. GitHub is a ____ hosting service for software development and version control?
+A) web-based
+B) fluxomous
+
+Answer: web-based
+
+2. A central storage for code projects on GitHub is called a ____?
+A) repository
+B) repolith
+
+Answer: repository
+
+3. GitHub uses the distributed version control system called ____?
+A) Git
+B) Gux
+
+Answer: Git
+
+4. The action of saving changes to a repository in Git is known as a ____?
+A) commit
+B) comlix
+
+Answer: commit
+
+5. A ____ in GitHub allows you to experiment with changes without affecting the main codebase?
+A) branch
+B) branquo
+
+Answer: branch
+
+6. A ____ is a request to merge your branch changes into the main branch?
+A) pull request
+B) prilmant
+
+Answer: pull request
+
+7. GitHub provides a feature to track bugs and feature requests, known as ____?
+A) issues
+B) ishmos
+
+Answer: issues
+
+8. The process of copying a repository from GitHub to your local machine is called ____?
+A) clone
+B) clomber
+
+Answer: clone
+
+9. A ____ is used to make a personal copy of someone else's repository on GitHub?
+A) fork
+B) forquin
+
+Answer: fork
+
+10. Merging changes from different branches is performed using a ____?
+A) merge
+B) merglon
+
+Answer: merge
+
+11. To update your local repository with changes from the remote repository, you use ____?
+A) pull
+B) plullix
+
+Answer: pull
+
+12. After making local changes, you can send your updates to GitHub using ____?
+A) push
+B) pusheron
+
+Answer: push
+
+13. The graphical interface for code collaboration provided by GitHub is known as ____?
+A) GitHub Desktop
+B) Github Dynex
+
+Answer: GitHub Desktop
+
+14. The command line tool to interact with Git repositories is called the ____?
+A) Git CLI
+B) Git Commandor
+
+Answer: Git CLI
+
+15. A ____ is used to undo changes by creating a new commit that reverts previous commits?
+A) revert
+B) revaxon
+
+Answer: revert
+
+16. GitHub supports continuous integration with a feature called ____?
+A) GitHub Actions
+B) GitHub Axions
+
+Answer: GitHub Actions
+
+17. The process of incorporating changes from one branch into another is often referred to as ____?
+A) merging
+B) mergation
+
+Answer: merging
+
+18. When you open a pull request, the process of reviewing and discussing the changes is known as ____?
+A) code review
+B) codex review
+
+Answer: code review
+
+19. GitHub provides a way to manage project tasks with a feature called ____?
+A) Projects
+B) Projalin
+
+Answer: Projects
+
+20. A secure token used for authentication on GitHub is known as a ____?
+A) Personal Access Token
+B) Persocall Access Tiden
+
+Answer: Personal Access Token
+
+21. To resolve conflicts in a repository, you might use a ____?
+A) merge tool
+B) mergator
+
+Answer: merge tool
+
+22. A file that outlines guidelines for contributing to a repository is called ____?
+A) CONTRIBUTING.md
+B) CONTRIBUS
+
+Answer: CONTRIBUTING.md
+
+23. The file that often contains an introduction and instructions for a GitHub repository is called the ____?
+A) README
+B) REmevo
+
+Answer: README
+
+24. GitHub offers a feature to host static websites directly from a repository, known as ____?
+A) GitHub Pages
+B) GitHub Pagenix
+
+Answer: GitHub Pages
+
+25. A written summary of project changes, typically accompanying a pull request, is called a ____?
+A) changelog
+B) changorix
+
+Answer: changelog
+
+
+Article on Using GitHub
+
+GitHub is a web-based hosting service for software development and version control that uses Git, a distributed version control system, to help you manage code projects. A project on GitHub is stored in a repository, which is a central location for your files and revision history. When you create a repository, it often includes a README file that introduces the project and may also include a CONTRIBUTING.md file with guidelines for contributing.
+
+Using Git effectively involves several key actions. When you save changes to your project, you create a commit that records a snapshot of your work. To work on new features or fixes without disturbing the main codebase, you create a branch. Once your changes are ready, you can open a pull request, which is a formal request to merge your branch into the main branch. GitHub also provides tools for tracking bugs and feature requests through issues.
+
+You can copy a repository from GitHub to your local machine by cloning it, or you can fork a repository to create your own personal copy of someone else’s project. When the time comes to combine changes from different branches, you perform a merge. To update your local repository with the latest changes, you use pull, and when you are ready to share your changes, you push them to GitHub.
+
+For users who prefer a graphical interface, GitHub Desktop offers an easy way to interact with repositories, while the Git CLI provides command line functionality. If you make a mistake, you can revert a commit to undo changes. GitHub Actions is a feature that supports continuous integration by automating workflows, ensuring that your code is tested and deployed efficiently. The act of merging changes is often referred to as merging, and during this process, team members may engage in a code review to discuss the changes.
+
+In addition to managing code, GitHub offers Projects, a tool to manage and track project tasks. For secure interactions with the platform, a Personal Access Token is used for authentication instead of a password. When conflicts arise during a merge, a merge tool can help resolve them.
+
+GitHub also supports hosting static websites through GitHub Pages, allowing you to publish content directly from a repository. Finally, maintaining a changelog—a written summary of project changes—is an effective way to document progress and updates.
+
+This article contains all the essential information and exact words needed to complete the quiz.

@@ -1,0 +1,31 @@
+.item {
+	display: block;
+	margin-bottom: 3px;
+}
+.item_label {
+	display: inline-block;
+	margin-right: 3px;
+	font-weight: bold;
+}
+.item_value {
+	display: inline-block;
+}
+#course_description_label {
+	display: block;
+	margin-bottom: 5px;
+}
+#course_description_value {
+	margin-bottom: 15px;
+}
+.notices_value {
+	display: block;
+	background-color: #f00;
+	border-bottom-color: #9b0606;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-radius: 0px 0px 5px 5px;
+	padding: 10px;
+	font-size: 18px;
+	color: #f7dbdb;
+	margin-bottom: 10px;
+}

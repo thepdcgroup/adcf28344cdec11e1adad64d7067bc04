@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="http://localhost/assets/global.css">
+<link rel="stylesheet" href="http://localhost/assets/navigation.css">
+<title>Self-Hosted - Navigation</title>
+<style>
+</style>
+</head>
+<body>
+<div class='section_outter no_print' id='section_outter_header0'>
+	<div class='section_inner' id='section_inner_header0'>
+	<div id='parent_button_outter'>
+		<a id='parent_button' href="http://localhost/index.html">Go to Parent Site</a>
+	</div>
+	</div>
+</div>
+<div class='section_outter no_print' id='section_outter_header1'>
+	<div class='section_inner' id='section_inner_header1'>
+	<nav id='navigation'>
+		<a id='navigation_button' href="http://localhost/navigation.html">&#x2630;</a>
+	</nav>
+	</div>
+</div>
+<div class='section_outter' id='content_section_outter'>
+	<div class='section_inner' id='content_section_inner'>
+		<div id='navlinks_pages_outter'>
+<div id='navlinks_pages_inner'>
+<h2>Pages</h2>
+<a class='navlinks' href="./index.html">Home</a>
+<a class='navlinks' href="./pages/overview.html">Overview</a>
+<a class='navlinks' href="./pages/reading-material.html">Reading Material</a>
+<a class='navlinks' href="./pages/evaluation.html">Evaluation</a>
+<a class='navlinks' href="./pages/certificate.html">Credential Verification</a>
+</div>
+</div>
+<div id='navlinks_meta_outter'>
+<div id='navlinks_meta_inner'>
+<h2>Meta Pages</h2>
+<a class='navlinks' href="./rel-robots.txt">rel-robots.txt</a>
+<a class='navlinks' href="./rel-humans.txt">rel-humans.txt</a>
+<a class='navlinks' href="./rel-sitemap.xml">rel-sitemap.xml</a>
+<a class='navlinks' href="./Hello World.txt">Hello World.txt</a>
+</div>
+</div>
+<script>
+window.onload = function(){
+	if (document.referrer.startsWith(location.origin)){
+		document.getElementById("navigation").style.display = 'inline-block';
+		document.getElementById("navigation_button").href = document.referrer;
+		document.getElementById("navigation_button").innerHTML = '&#9166; ';
+	} else {
+		var elem = document.getElementById("navigation");
+		elem.remove();
+	}
+}
+</script>
+	</div>
+</div>
+<div class='section_outter no_print' id='section_outter_footer1'>
+	<div class='section_inner' id='section_inner_footer1'>
+		<div id='scroll_to_top'>
+			<button onclick="scrollToTop()" id="topButton">&uArr;</button>
+			<script>
+				function scrollToTop() {
+					document.body.scrollTop = 0;
+					document.documentElement.scrollTop = 0;
+				}
+			</script>
+		</div>
+	</div>
+</div>
+<div class='section_outter no_print' id='section_outter_footer2'>
+	<div class='section_inner' id='section_inner_footer2'>
+		<div id='copyright_notice'>
+			<p><a href="https://laws-lois.justice.gc.ca/eng/acts/C-42/Index.html">Copyright &#169</a> Self-Hosted, and others; <a href="https://en.wikipedia.org/wiki/All_rights_reserved">all rights reserved</a>, except where explicitly stated.
+			</p>
+		</div>
+	</div>
+</div>
+</body>
+</html>

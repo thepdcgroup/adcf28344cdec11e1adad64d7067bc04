@@ -1,0 +1,5 @@
+Description: Contains notices for prospective students to read before taking the course.
+Content:
+<value>
+This course was generated using AI-tools, and has not been thoroughly reviewed. You are strongly encouraged to verify the accuracy of all material as part of your learning process.
+</value>

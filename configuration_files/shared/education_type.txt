@@ -1,0 +1,5 @@
+Description: States the type of education recieved. The default value is "Non-Formal Education".
+Content:
+<value>
+Non-Formal Education
+</value>

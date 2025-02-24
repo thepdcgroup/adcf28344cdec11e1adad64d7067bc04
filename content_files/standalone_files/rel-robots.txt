@@ -1,0 +1,7 @@
+Description: This contains content for the the file "/www/public/rel-robots.txt". rel-robots.txt is a robots.txt alternative, that functions the same, except its scope is limited to the current directory, and subdirectories. Its rules overrule anything stated in a robots.txt file. It is not currently supported by third-parties, and therefore has no effect.
+Content:
+<value>
+User-agent: *
+Disallow: /assets/
+Disallow: /databases/
+</value>
